@@ -8,34 +8,10 @@ Trang web được xây dựng gồm 2 phần Front end được xây dựng b�
 -	Front-End: ReactJS, TailwindCSS
 -	Back-End: ExpressJS
 -	Database: MongoDB
-
-
-
-
 ![image](https://github.com/Serikaaa/Circulus/assets/96558358/89beda92-1e4f-4b19-abde-52011e71a062)
-
-
 1.3	Use case:
 Các chức năng dành cho user:
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Serikaaa/Circulus/assets/96558358/fd49e85e-abd4-4c3b-8ebc-19c8a75e1b5c)
 2.	Website Development:
 2.1 Sign up
 Cho phép người dùng đăng ký thông tin: tên người dùng, mật khẩu, email. Các thông tin sẽ được mã hóa và gửi tới server và được lưu trữ trên MongoDB theo định dạng sau:
